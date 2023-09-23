@@ -1,0 +1,22 @@
+E:\!My Project\C#-Winform\Login,Logout\Login,Logout\bin\Debug\Login,Logout.exe.config
+E:\!My Project\C#-Winform\Login,Logout\Login,Logout\bin\Debug\Login,Logout.exe
+E:\!My Project\C#-Winform\Login,Logout\Login,Logout\bin\Debug\Login,Logout.pdb
+E:\!My Project\C#-Winform\Login,Logout\Login,Logout\obj\Debug\Login,Logout.csproj.AssemblyReference.cache
+E:\!My Project\C#-Winform\Login,Logout\Login,Logout\obj\Debug\Login_Logout.FormChuongTrinh.resources
+E:\!My Project\C#-Winform\Login,Logout\Login,Logout\obj\Debug\Login_Logout.FormDangNhap.resources
+E:\!My Project\C#-Winform\Login,Logout\Login,Logout\obj\Debug\Login_Logout.Properties.Resources.resources
+E:\!My Project\C#-Winform\Login,Logout\Login,Logout\obj\Debug\Login,Logout.csproj.GenerateResource.cache
+E:\!My Project\C#-Winform\Login,Logout\Login,Logout\obj\Debug\Login,Logout.csproj.CoreCompileInputs.cache
+E:\!My Project\C#-Winform\Login,Logout\Login,Logout\obj\Debug\Login,Logout.exe
+E:\!My Project\C#-Winform\Login,Logout\Login,Logout\obj\Debug\Login,Logout.pdb
+E:\MyLearnCode\QTMT-C#Winform\Login,Logout\Login,Logout\bin\Debug\Login,Logout.exe.config
+E:\MyLearnCode\QTMT-C#Winform\Login,Logout\Login,Logout\bin\Debug\Login,Logout.exe
+E:\MyLearnCode\QTMT-C#Winform\Login,Logout\Login,Logout\bin\Debug\Login,Logout.pdb
+E:\MyLearnCode\QTMT-C#Winform\Login,Logout\Login,Logout\obj\Debug\Login,Logout.csproj.AssemblyReference.cache
+E:\MyLearnCode\QTMT-C#Winform\Login,Logout\Login,Logout\obj\Debug\Login_Logout.FormChuongTrinh.resources
+E:\MyLearnCode\QTMT-C#Winform\Login,Logout\Login,Logout\obj\Debug\Login_Logout.FormDangNhap.resources
+E:\MyLearnCode\QTMT-C#Winform\Login,Logout\Login,Logout\obj\Debug\Login_Logout.Properties.Resources.resources
+E:\MyLearnCode\QTMT-C#Winform\Login,Logout\Login,Logout\obj\Debug\Login,Logout.csproj.GenerateResource.cache
+E:\MyLearnCode\QTMT-C#Winform\Login,Logout\Login,Logout\obj\Debug\Login,Logout.csproj.CoreCompileInputs.cache
+E:\MyLearnCode\QTMT-C#Winform\Login,Logout\Login,Logout\obj\Debug\Login,Logout.exe
+E:\MyLearnCode\QTMT-C#Winform\Login,Logout\Login,Logout\obj\Debug\Login,Logout.pdb
