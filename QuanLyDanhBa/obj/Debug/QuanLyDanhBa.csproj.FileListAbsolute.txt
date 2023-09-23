@@ -1,0 +1,20 @@
+E:\Hutech\C#(LT moi truong WD)\source\repos\QuanLyDanhBa\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.exe.config
+E:\Hutech\C#(LT moi truong WD)\source\repos\QuanLyDanhBa\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.exe
+E:\Hutech\C#(LT moi truong WD)\source\repos\QuanLyDanhBa\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.pdb
+E:\Hutech\C#(LT moi truong WD)\source\repos\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csproj.AssemblyReference.cache
+E:\Hutech\C#(LT moi truong WD)\source\repos\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.Form1.resources
+E:\Hutech\C#(LT moi truong WD)\source\repos\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.Properties.Resources.resources
+E:\Hutech\C#(LT moi truong WD)\source\repos\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csproj.GenerateResource.cache
+E:\Hutech\C#(LT moi truong WD)\source\repos\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csproj.CoreCompileInputs.cache
+E:\Hutech\C#(LT moi truong WD)\source\repos\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.exe
+E:\Hutech\C#(LT moi truong WD)\source\repos\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.pdb
+E:\MyLearnCode\QTMT-C#\QuanLyDanhBa\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.exe.config
+E:\MyLearnCode\QTMT-C#\QuanLyDanhBa\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.exe
+E:\MyLearnCode\QTMT-C#\QuanLyDanhBa\QuanLyDanhBa\bin\Debug\QuanLyDanhBa.pdb
+E:\MyLearnCode\QTMT-C#\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csproj.AssemblyReference.cache
+E:\MyLearnCode\QTMT-C#\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.Form1.resources
+E:\MyLearnCode\QTMT-C#\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.Properties.Resources.resources
+E:\MyLearnCode\QTMT-C#\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csproj.GenerateResource.cache
+E:\MyLearnCode\QTMT-C#\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.csproj.CoreCompileInputs.cache
+E:\MyLearnCode\QTMT-C#\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.exe
+E:\MyLearnCode\QTMT-C#\QuanLyDanhBa\QuanLyDanhBa\obj\Debug\QuanLyDanhBa.pdb

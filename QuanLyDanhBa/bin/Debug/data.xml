@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <NumberPhone>0908888801</NumberPhone>
+    <Organization>FPT SoftWare</Organization>
+    <Chief>Huy Hoàng</Chief>
+    <Note>Giám đốc</Note>
+  </Table1>
+  <Table1>
+    <NumberPhone>0908888802</NumberPhone>
+    <Organization>VNG</Organization>
+    <Chief>Phúc An</Chief>
+    <Note>Quản lý</Note>
+  </Table1>
+  <Table1>
+    <NumberPhone>0908888803</NumberPhone>
+    <Organization>Viettel</Organization>
+    <Chief>Trọng Tín</Chief>
+    <Note />
+  </Table1>
+  <Table1>
+    <NumberPhone>0908888804</NumberPhone>
+    <Organization>Intel Corporation</Organization>
+    <Chief>Hoài Bảo</Chief>
+    <Note>Nhân viên</Note>
+  </Table1>
+  <Table1>
+    <NumberPhone>43242343</NumberPhone>
+    <Organization>FPT </Organization>
+    <Chief>Nam</Chief>
+    <Note>Nhân viên</Note>
+  </Table1>
+  <Table1>
+    <NumberPhone>093232131231</NumberPhone>
+    <Organization>Cloud</Organization>
+    <Chief>Minh Phú</Chief>
+    <Note>Phó giám đốc</Note>
+  </Table1>
+</NewDataSet>
